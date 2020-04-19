@@ -53,6 +53,7 @@ example)
 - 위의 디렉토리에 원하는 데이터를 넣고 그냥 gui에 드래그하면 된다.
 
 [www.kaggle.com](http://www.kaggle.com) 
+
 https://github.com/awesomedata/awesome-public-datasets
 
 위의 사이트에서 data set을 가져와서 mlmodel을 만들 수 있다.
