@@ -1,5 +1,9 @@
 # ml_create_your_own_mlmodel-macOS-playground
 
+# Link
+
+https://www.notion.so/Swift-Machine-Learning-87289761998846179e235ff1318200e7
+
 
 - Latest Apple API to create ML
 - available ios 12+
@@ -49,5 +53,14 @@ example)
 - 위의 디렉토리에 원하는 데이터를 넣고 그냥 gui에 드래그하면 된다.
 
 [www.kaggle.com](http://www.kaggle.com) 
+https://github.com/awesomedata/awesome-public-datasets
 
 위의 사이트에서 data set을 가져와서 mlmodel을 만들 수 있다.
+
+
+### mlmodel을 만드는 방법들
+
+1. CaffeModel → MLModel
+2. Dataset → MLModel 
+
+Dude,  everybody can develop AI on 21th century !
